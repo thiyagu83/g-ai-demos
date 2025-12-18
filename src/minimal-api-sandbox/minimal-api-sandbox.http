@@ -1,0 +1,6 @@
+@minimal_api_sandbox_HostAddress = http://localhost:5164
+
+GET {{minimal_api_sandbox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
